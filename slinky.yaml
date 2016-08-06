@@ -1,0 +1,3 @@
+src_dir: "src/"
+build_dir: "build/"
+enable_browser_errors: true
